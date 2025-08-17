@@ -1,0 +1,5 @@
+{
+  "name": "CRM Visual Workflow Builder",
+  "description": "A prototype of a drag-and-drop visual workflow builder for a CRM system. It enables users to visually map workflow stages, conditions, branching logic, and automated actions without coding, and includes features for reporting and AI-powered workflow generation.",
+  "requestFramePermissions": []
+}
